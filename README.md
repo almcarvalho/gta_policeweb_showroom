@@ -16,24 +16,24 @@ UI: https://www.figma.com/file/XfXXk9vCGS8azmxosIibNr/gtaProjectHazam
 
 Cadastro:
 
-![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/docs/demos/Demo1.gif)
+![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/demos/Demo1.gif)
 
 Integrado com discord:
 
-![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/docs/demos/Demo2.gif)
+![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/demos/Demo2.gif)
 
 Abertura e fechamento de ponto:
 
-![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/docs/demos/Demo4.gif)
+![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/demos/Demo4.gif)
 
 Calculadora Penal Online:
 
-![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/docs/demos/Demo3.gif)
+![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/demos/Demo3.gif)
 
 Aprovação e negação de pontos pelos administradores (Comando):
 
-![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/docs/demos/Demo1.gif)
+![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/demos/Demo5.gif)
 
 Alteração de dados e telas simples, exibindo todo o código penal:
 
-![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/docs/demos/Demo6.gif)
+![Alt Text](https://github.com/almcarvalho/gta_policeweb_showroom/blob/main/demos/Demo6.gif)
