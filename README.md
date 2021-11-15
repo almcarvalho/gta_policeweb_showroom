@@ -12,7 +12,7 @@ Frontend: React (continious deploy na netlify)
 
 Documentação das Rotas do backend no Imsominia, Arquivo de fácil importação
 
-UI: https://www.figma.com/file/XfXXk9vCGS8azmxosIibNr/gtaProjectHazam
+UI: https://www.figma.com/file/XfXXk9vCGS8azmxosIibNr/gtaProjectByLucas
 
 Cadastro:
 
